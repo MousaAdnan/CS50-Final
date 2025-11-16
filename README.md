@@ -65,4 +65,7 @@ The project allows players to:
 
 #### Installation and Setup:
 1. Clone the repository:
+2. Run python3 app.py
+3. Copy URL after "* Running on " and paste into browser
+   
 
